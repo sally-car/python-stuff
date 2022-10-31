@@ -1,4 +1,4 @@
-# __PYTHON STUFF__
+# ✨ Python Stuff ✨
                                                      # Project 1: Analyzing Netflix data
     # Step 1. Download Your Netflix Data
     # Step 2. Familiarize Yourself with the Data
